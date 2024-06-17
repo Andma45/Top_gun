@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkyAnalytics #
 ## Prédiction et Optimisation de la Maintenance Aéronautique ##
 
@@ -93,3 +94,7 @@ Dataset degradation :
         need_replacement : Indique si le composant a besoin d'être remplacé.
 
   
+=======
+# Top_gun
+Projet 3 - Skyanalytics
+>>>>>>> guillaume
