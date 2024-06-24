@@ -3,4 +3,5 @@ connect_MySQL.py
 __pycache__
 test_mysql.ipynb
 to_My_sql.ipynb
-
+to_mysql_recup_logs_vols.ipynb
+to_mysql_recup_degradations.ipynb
